@@ -1,0 +1,20 @@
+body {
+  background: rgba(150, 150, 150, 0.2);
+}
+.main__building {
+  display: flex;
+  justify-content: center;
+}
+#build {
+  position: relative;
+}
+#elevator {
+  position: absolute;
+  left: 758px;
+  bottom: 205px;
+}
+.floors {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
